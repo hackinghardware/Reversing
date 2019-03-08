@@ -1,0 +1,4 @@
+Reto 2
+Dificultad: 3
+
+Obtén la bandera

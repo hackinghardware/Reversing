@@ -1,0 +1,3 @@
+Reto 4
+Dificultad 4
+Encuentra la bandera (Recuerda no ejecutar el archivo en tu equipo, usa una maquina virtual).
