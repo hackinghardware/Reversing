@@ -1,0 +1,6 @@
+Un empleado ha reportado al equipo de seguridad un e-mail sospechoso que podría ser fruto de una campaña
+de spear phishing a la compañía. Al parecer, el documento carece de contenido alguno y presenta un formato poco común.
+Es probable que el mismo se aproveche de alguna vulnerabilidad y que el equipo haya sido comprometido. 
+Tu objetivo será determinar qué CVE trata de explotar dicho documento (CVE-XXXX-XXXX)
+
+La contraseña del fichero rar es infected
